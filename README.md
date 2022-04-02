@@ -6,7 +6,7 @@
 # What He doing :
   Lutica.github.io     
       
-#What He did :    
+# What He did :    
   Label-making-program > for school working    
   
 <!---
