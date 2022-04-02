@@ -4,7 +4,7 @@
   I'm interesting that VR games (openXR,VRchat!), machine learing, and something!    
       
 # What He doing :
-  Lutica.github.io     
+  Luticacanard.github.io     
       
 # What He did :    
   Label-making-program > for school working    
