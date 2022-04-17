@@ -5,6 +5,8 @@
       
 # What He doing :
   Luticacanard.github.io     
+  Arduino plant project (serial monitor and arduino program)     
+  (planned) AI chatbot for council depress      
       
 # What He did :    
   Label-making-program > for school working    
