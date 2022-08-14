@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuticaCANARD)]
+
 # About Lutica :   
   working in game company,    
   learning Unity , C# , Js , Css ,Svelte ...    
