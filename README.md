@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuticaCANARD)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuticaCANARD&show_icons=true&theme=radical)
 
 # About Lutica :   
   working in game company,    
