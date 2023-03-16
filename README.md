@@ -12,14 +12,14 @@ You can click the Preview link to take a look at your changes.
 - I'm working on game company now. 
 
 ## Used Stacks
-**WEB**
+**WEB**     
 -HTML    
 -CSS with SCSS    
 -JS     
 -Svelte    
 -Jquery    
 
-**GAME or APP**
+**GAME or APP**     
 -UNITY    
 -BLENDER     
 -.NET / WINFORM    
