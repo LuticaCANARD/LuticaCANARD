@@ -7,9 +7,28 @@ You can click the Preview link to take a look at your changes.
 
 # Who is Lutica CANARD?
 - studying Electric engineering and Dara science both in university.
-- I'm working on game company. 
+- Main major : Electric engineering
+- I have intersting about signal systems on railway.
+- I'm working on game company now. 
+
+## Used Stacks
+**WEB**
+-HTML
+-CSS with SCSS
+-JS 
+-Svelte
+-Jquery
+
+**GAME or APP**
+-UNITY
+-BLENDER
+-.NET / WINFORM
+-.NET / MAUI
 
 ## Projects with Lutica canard 
+Nano interactive: Crypto Conquer
+Luneer : Luneer official site
+Lathion team : Lathion project
 
 ## Contacts
 presan100@gmail.com 
