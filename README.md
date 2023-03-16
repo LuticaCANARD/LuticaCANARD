@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 ## Languages that can contact with me
 * 한국어 / Korean **Primary**
 * 日本語 / Japanese    
-(日本語の方が最も分かりやすいので英語より日本語で送ってくだされば感謝します)
+(日本語の方が英語より分かりやすいので英語より日本語で送ってくだされば感謝します)
 * English 
 
 - studying Electric engineering and Dara science both in university.
