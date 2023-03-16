@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 * English 
 
 ## Profile
-- studying Electric engineering and Dara science both in university.
+- studying Electric engineering and Data science both in university.
 - Main major : Electric engineering
 - I have intersting about signal systems on railway.
 - I'm working on game company now. 
