@@ -6,6 +6,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Who is Lutica CANARD?
+* Country : South Korea 🇰🇷     
+## Languages that can contact with me
+* 한국어 / Korean **Primary**
+* 日本語 / Japanese    
+(日本語の方が最も分かりやすいので英語より日本語で送ってくだされば感謝します)
+* English 
+
 - studying Electric engineering and Dara science both in university.
 - Main major : Electric engineering
 - I have intersting about signal systems on railway.
@@ -13,17 +20,17 @@ You can click the Preview link to take a look at your changes.
 
 ## Used Stacks
 **WEB**     
--HTML    
--CSS with SCSS    
--JS     
--Svelte    
--Jquery    
+- HTML    
+- CSS with SCSS    
+- JS     
+- Svelte    
+- Jquery    
 
 **GAME or APP**     
--UNITY    
--BLENDER     
--.NET / WINFORM    
--.NET / MAUI    
+- UNITY    
+- BLENDER     
+- .NET / WINFORM    
+- .NET / MAUI    
 
 ## Projects with Lutica canard 
 Nano interactive: Crypto Conquer    
