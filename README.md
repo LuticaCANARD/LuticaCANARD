@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 (日本語の方が英語より分かりやすいので英語より日本語で送ってくだされば感謝します)
 * English 
 
+## Profile
 - studying Electric engineering and Dara science both in university.
 - Main major : Electric engineering
 - I have intersting about signal systems on railway.
