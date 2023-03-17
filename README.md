@@ -35,9 +35,9 @@ You can click the Preview link to take a look at your changes.
 - .NET / MAUI    
 
 ## Projects with Lutica canard 
-Nano interactive: Crypto Conquer    
-Luneer : Luneer official site    
-Lathion team : Lathion project    
+- Nano interactive: Crypto Conquer    
+- Luneer : Luneer official site    
+- Lathion team : Lathion project    
 
 ## Contacts
 presan100@gmail.com 
