@@ -8,16 +8,17 @@ You can click the Preview link to take a look at your changes.
 # Who is Lutica CANARD?
 * Country : South Korea 🇰🇷     
 ## Languages that can contact with me
-* 한국어 / Korean **Primary**
+* 한국어 / Korean      
+**Primary**
 * 日本語 / Japanese    
 (日本語の方が英語より分かりやすいので英語より日本語で送ってくだされば感謝します)
 * English 
 
 ## Profile
 - studying Electric engineering and Data science both in university.
-- Main major : Electric engineering
+- Main major : Electric engineering On Railway.
 - I have intersting about signal systems on railway.
-- I'm working on game company now. 
+- I'm working on game company now with school.
 
 ## Used Stacks
 **WEB**     
