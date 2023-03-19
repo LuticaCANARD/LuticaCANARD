@@ -45,5 +45,5 @@ presan100@gmail.com
 ## ETC
 Programmers Profile.
 https://career.programmers.co.kr/pr/presan100_7665
-** NOT PUBLISHED YET **
+**IS NOT PUBLISHED YET**
 
