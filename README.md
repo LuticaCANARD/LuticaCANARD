@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 presan100@gmail.com 
 
 ## ETC
-Programmers Profile.
-https://career.programmers.co.kr/pr/presan100_7665
+###Programmers Profile.
+https://career.programmers.co.kr/pr/presan100_7665    
 **IS NOT PUBLISHED YET**
 
