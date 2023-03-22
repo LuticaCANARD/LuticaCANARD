@@ -5,7 +5,7 @@ LuticaCANARD/LuticaCANARD is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<div style="margin:auto">
+<div align="center">
 #敎學相長
 </div>
 
