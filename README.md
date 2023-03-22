@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-#敎學相長
+# 敎學相長
 </div>
 
 # Who is Lutica CANARD?
