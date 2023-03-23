@@ -5,9 +5,9 @@ LuticaCANARD/LuticaCANARD is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<div align="center">
+<!--<div align="center">
   <h1> 敎學相長 </h1>
-</div>
+</div>-->
 
 # Who is Lutica CANARD?
 * Country : South Korea 🇰🇷     
