@@ -41,7 +41,8 @@ You can click the Preview link to take a look at your changes.
 ## Projects with Lutica canard 
 - Nano interactive: Crypto Conquer    
 - Luneer : Luneer official site    
-- Lathion team : Lathion project    
+- Lathion team : Lathion project (Tech team Leader)       
+- Group Study Leader : KNUT Web Study Leader  
 
 ## Contacts
 presan100@gmail.com 
