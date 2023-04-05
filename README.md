@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
 - Main major : Electric engineering On Railway.
 - I have intersting about signal systems on railway.
 - I'm working on game company now with school.
+- 철도공학 중 철도신호분야에 관심을 가지고 있습니다!
+- 현재 게임회사에서 UNITY 프로젝트 진행중에 있습니다!
 
 ## Used Stacks
 **WEB**     
