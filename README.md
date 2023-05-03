@@ -53,4 +53,5 @@ presan100@gmail.com
 ### Programmers Profile.
 https://career.programmers.co.kr/pr/presan100_7665    
 **IS NOT PUBLISHED YET**
-
+## P.S.
+- I LOVE DYNAMIC TYPE LANGUAGE (but that's not I hate static type language)
