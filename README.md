@@ -33,6 +33,11 @@ You can click the Preview link to take a look at your changes.
 - JS     
 - Svelte    
 - Jquery    
+- Typescript
+- Node.js / with Ts
+- PostgreSQL
+- Express 
+- 
 
 **GAME or APP**     
 - UNITY    
@@ -41,9 +46,7 @@ You can click the Preview link to take a look at your changes.
 - .NET / MAUI    
 
 ## Projects with Lutica canard 
-- Nano interactive: Crypto Conquer    
-- Luneer : Luneer official site    
-- Lathion team : Lathion project (Tech team Leader)       
+- Nano interactive: Crypto Conquer     
 - Group Study Leader : KNUT Web Study Leader  
 
 ## Contacts
@@ -53,5 +56,3 @@ presan100@gmail.com
 ### Programmers Profile.
 https://career.programmers.co.kr/pr/presan100_7665    
 **IS NOT PUBLISHED YET**
-## P.S.
-- I LIKE **__DYNAMIC TYPE LANGUAGE__** (but that's not I hate static type language)
