@@ -45,9 +45,12 @@ You can click the Preview link to take a look at your changes.
 - .NET / WINFORM    
 - .NET / MAUI    
 
+
+
 ## Projects with Lutica canard 
 - Nano interactive: Crypto Conquer     
 - Group Study Leader : KNUT Web Study Leader  
+- VCAP (VRChat Connections API) : Data Science Team.
 
 ## Contacts
 presan100@gmail.com 
