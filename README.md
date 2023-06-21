@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 ## Projects with Lutica canard 
 - Nano interactive: Crypto Conquer     
 - Group Study Leader : KNUT Web Study Leader  
-- [VCAP] (VRChat Connections API) : Data Science Team.
+- [VCAP](https://www.itmedia.co.jp/news/articles/2306/20/news193.html) (VRChat Connections API) : Data Science Team.
 
 ## Contacts
 presan100@gmail.com 
@@ -60,4 +60,4 @@ presan100@gmail.com
 https://career.programmers.co.kr/pr/presan100_7665    
 **IS NOT PUBLISHED YET**
 
-[VCAP] : https://www.itmedia.co.jp/news/articles/2306/20/news193.html
+
