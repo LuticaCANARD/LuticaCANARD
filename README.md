@@ -37,6 +37,9 @@ You can click the Preview link to take a look at your changes.
 - Node.js / with Ts
 - PostgreSQL
 - Express 
+- HONO
+- Bun
+- Elysia.js
 - 
 
 **GAME or APP**     
@@ -45,6 +48,8 @@ You can click the Preview link to take a look at your changes.
 - .NET / WINFORM    
 - .NET / MAUI    
 
+**ETC**
+- OpenCV
 
 
 ## Projects with Lutica canard 
