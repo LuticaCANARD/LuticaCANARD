@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Used Stacks
 **WEB**     
-![Unity](https://img.shields.io/badge/Unity-#000000?style=for-the-badge&logo=Unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
 
 - HTML    
 - CSS with SCSS    
