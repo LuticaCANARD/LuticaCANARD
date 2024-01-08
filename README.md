@@ -40,25 +40,19 @@ You can click the Preview link to take a look at your changes.
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-- Svelte    
-- Jquery    
-- Typescript
-- Node.js / with Ts
-- PostgreSQL
-- Express 
-- HONO
-- Bun
+![Express](https://img.shields.io/badge/Express-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HONO](https://img.shields.io/badge/Hono-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
 - Elysia.js
-- 
 
 **GAME or APP**     
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
 ![BLENDER](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=Blender&logoColor=white)
-
- 
- BLENDER     
-- .NET / WINFORM    
-- .NET / MAUI    
+![.NET/WPF](https://img.shields.io/badge/.NET-WPF-E87D0D?style=for-the-badge&logo=.NET&logoColor=white)
+![.NET/MAUI](https://img.shields.io/badge/.NET-MAUI-E87D0D?style=for-the-badge&logo=.NET&logoColor=white)
 
 **ETC**
 - OpenCV
