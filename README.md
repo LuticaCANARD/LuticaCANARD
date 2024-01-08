@@ -42,6 +42,7 @@ You can click the Preview link to take a look at your changes.
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HONO](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=Hono&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=Bun&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 
 
 
