@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 **WEB**     
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-#572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=000000)
 
 
