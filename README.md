@@ -29,6 +29,11 @@ You can click the Preview link to take a look at your changes.
 ## Used Stacks
 **WEB**     
 
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-#572B6?style=for-the-badge&logo=HTML3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
+
+
 - HTML    
 - CSS with SCSS    
 - JS     
@@ -44,9 +49,11 @@ You can click the Preview link to take a look at your changes.
 - 
 
 **GAME or APP**     
-- ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
-    
-- BLENDER     
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
+![BLENDER](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=Blender&logoColor=white)
+
+ 
+ BLENDER     
 - .NET / WINFORM    
 - .NET / MAUI    
 
