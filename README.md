@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-![Express](https://img.shields.io/badge/Express-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HONO](https://img.shields.io/badge/Hono-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
