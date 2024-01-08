@@ -51,8 +51,8 @@ You can click the Preview link to take a look at your changes.
 **GAME or APP**     
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
 ![BLENDER](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=Blender&logoColor=white)
-![.NET/WPF](https://img.shields.io/badge/.NET-WPF-E87D0D?style=for-the-badge&logo=.NET&logoColor=white)
-![.NET/MAUI](https://img.shields.io/badge/.NET-MAUI-E87D0D?style=for-the-badge&logo=.NET&logoColor=white)
+![.NET/WPF](https://img.shields.io/badge/.NET-WPF-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
+![.NET/MAUI](https://img.shields.io/badge/.NET-MAUI-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
 
 **ETC**
 - OpenCV
