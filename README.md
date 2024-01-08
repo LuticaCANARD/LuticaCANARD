@@ -28,6 +28,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Used Stacks
 **WEB**     
+![HTML](https://img.shields.io/badge/Unity?style=for-the-badge&logo=UnitylogoColor=white)
+
 - HTML    
 - CSS with SCSS    
 - JS     
