@@ -68,7 +68,7 @@ You can click the Preview link to take a look at your changes.
 ### Learning
 ![REDIS](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![KAFKA](https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Blender-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ## Projects with Lutica canard 
