@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 </div>-->
 
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=lutica_canard)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=271515156578697217)
 
 # Who is Lutica CANARD?
 * Country : South Korea 🇰🇷     
