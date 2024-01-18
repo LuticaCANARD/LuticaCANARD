@@ -5,9 +5,10 @@ LuticaCANARD/LuticaCANARD is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<!--<div align="center">
-  <h1> 敎學相長 </h1>
-</div>-->
+<!--
+            Welcome to my Home!
+            Here is my PAINFUL HOUSE
+-->
 
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=271515156578697217)
