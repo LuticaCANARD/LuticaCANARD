@@ -9,6 +9,9 @@ You can click the Preview link to take a look at your changes.
   <h1> 敎學相長 </h1>
 </div>-->
 
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=271515156578697217)
+
 # Who is Lutica CANARD?
 * Country : South Korea 🇰🇷     
 ## Languages that can contact with me
