@@ -44,6 +44,11 @@ You can click the Preview link to take a look at your changes.
 ![HONO](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=Hono&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 
+#### Cloude-Back-End
+![AWSEC2](https://img.shields.io/badge/amazon_ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=000000)
+![cloudflarepages](https://img.shields.io/badge/cloudflare_pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)
+
+
 - Elysia.js
 #### Front-End
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
