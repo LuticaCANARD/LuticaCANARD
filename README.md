@@ -89,8 +89,12 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Projects with Lutica canard 
-- Nano interactive: Conquer X2      
-- Group Study Leader : KNUT Web Study Leader  
+### Nano interactive: 
+- Conquer X2
+- 
+###  Group Study Leader : KNUT Web Study Leader
+-
+### ETC
 - [VCAP](https://www.itmedia.co.jp/news/articles/2306/20/news193.html) (VRChat Connections API) : Data Science Team.
 
 ## Contacts
