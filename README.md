@@ -106,7 +106,7 @@ https://career.programmers.co.kr/pr/presan100_7665
 |Name|Link|설명|
 |---|---|---|
 |pick-of-pig|[https://github.com/KNUT-webstudygroup/pick-of-pig]|google placeAPI기반 맛집추천 web App|
-|CanaRinLab_BackEnd|[https://github.com/LuticaCANARD/CanaRinLab_BackEnd]|Elysia.js오 만든 개인용 web server<br> out of maintenance. Private web backend server that made with Elysia.js|
+|CanaRinLab_BackEnd|[https://github.com/LuticaCANARD/CanaRinLab_BackEnd]|Elysia.js로 만든 개인용 web server<br> out of maintenance. Private web backend server that made with Elysia.js|
 
 </details>
 
