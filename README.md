@@ -110,6 +110,10 @@ https://career.programmers.co.kr/pr/presan100_7665
 
 </details>
 
+## Blog
+### Velog
+[https://velog.io/@presan100/posts]
+
 
 
 
