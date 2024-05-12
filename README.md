@@ -99,15 +99,17 @@ presan100@gmail.com
 ### Programmers Profile.
 https://career.programmers.co.kr/pr/presan100_7665    
 **IS NOT PUBLISHED YET**
+## Works 
 <details>
-<summary>## Works</summary>
+<summary>more...</summary>
 
 |Name|Link|설명|Description|説明|
-|--|--|--|--|--|--|
-|pick-of-pig|[[https://github.com/KNUT-webstudygroup/pick-of-pig]||Elysia.js로 만든 개인 웹/discord bot 서버|Elysia.jsで作った個人サーバ|
+|---|---|---|---|---|
+|pick-of-pig|[https://github.com/KNUT-webstudygroup/pick-of-pig]|google placeAPI기반 맛집추천 web App|Elysia.js로 만든 개인 웹/discord bot 서버|Elysia.jsで作った個人サーバ|
 |CanaRinLab_BackEnd|[https://github.com/LuticaCANARD/CanaRinLab_BackEnd]|out of maintenance. Private web backend server that made with Elysia.js|Elysia.js로 만든 개인 웹/discord bot 서버|Elysia.jsで作った個人サーバ|
 
 </details>
+
 
 
 
