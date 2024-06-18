@@ -87,8 +87,12 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Projects with Lutica canard 
-###  Group Study Leader : KNUT Web Study Leader
--
+### Career
+#### Nano Interactive
+- ConquerX2 / CryptoConquer 2022 ~
+- Mobile game project 2023 ~
+### Group Study Leader : KNUT Web Study Leader
+- Pick of pigs 2024. 01 ~ 05 
 ### ETC
 - [VCAP](https://www.itmedia.co.jp/news/articles/2306/20/news193.html) (VRChat Connections API) : Data Science Team.
 
@@ -107,6 +111,7 @@ https://career.programmers.co.kr/pr/presan100_7665
 |---|---|---|
 |pick-of-pig|[https://github.com/KNUT-webstudygroup/pick-of-pig]|google placeAPI기반 맛집추천 web App|
 |CanaRinLab_BackEnd|[https://github.com/LuticaCANARD/CanaRinLab_BackEnd]|Elysia.js로 만든 개인용 web server<br> out of maintenance. Private web backend server that made with Elysia.js|
+
 
 </details>
 
