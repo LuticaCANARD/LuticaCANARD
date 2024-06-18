@@ -77,7 +77,8 @@ You can click the Preview link to take a look at your changes.
 ### **ETC**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![C](https://img.shields.io/badge/C++-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23%0A-512BD4?style=for-the-badge&logo=Csharp&logoColor=white)
 
 ### Learning
@@ -89,8 +90,9 @@ You can click the Preview link to take a look at your changes.
 ## Projects with Lutica canard 
 ### Career
 #### Nano Interactive
-- ConquerX2 / CryptoConquer 2022 ~
-- Mobile game project 2023 ~
+- Software (Game) Developer
+- ConquerX2 / Crypto Conquer (Web) 2022 ~ (Maintenance)
+- Mobile game project (Unity) 2023 ~ (Developing)
 ### Group Study Leader : KNUT Web Study Leader
 - Pick of pigs 2024. 01 ~ 05 
 ### ETC
@@ -105,7 +107,7 @@ https://career.programmers.co.kr/pr/presan100_7665
 **IS NOT PUBLISHED YET**
 ## Works 
 <details>
-<summary>more...</summary>
+<summary>더 보기 more...</summary>
 
 |Name|Link|설명|
 |---|---|---|
@@ -118,7 +120,3 @@ https://career.programmers.co.kr/pr/presan100_7665
 ## Blog
 ### Velog
 [https://velog.io/@presan100/posts]
-
-
-
-
