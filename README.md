@@ -16,8 +16,7 @@ You can click the Preview link to take a look at your changes.
 # Who is Lutica CANARD?
 * Country : South Korea 🇰🇷     
 ## Languages that can contact with me
-* 한국어 / Korean      
-**Primary**
+* 한국어 / Korean(**Primary**)
 * 日本語 / Japanese    
 * English 
 
