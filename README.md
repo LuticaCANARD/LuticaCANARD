@@ -68,12 +68,13 @@ You can click the Preview link to take a look at your changes.
 
 ## Projects with Lutica canard 
 ### Career
-#### Nano Interactive
+#### Nano Interactive (2022 ~ paused)
 - Software (Game) Developer
 - ConquerX2 / Crypto Conquer (Web) 2022 ~ 2025
 - Mobile game project (Unity) 2023 ~  (Developing)
-#### Hirbert Robotoics
-- Audit (2024 ~)
+#### Hirbert Robotoics (2024 ~ )
+- Audit & Software Developer 
+- low-delay Streaming server for Drone (2024 ~ ) 
 ### ETC
 - [VCAP](https://www.itmedia.co.jp/news/articles/2306/20/news193.html) (VRChat Connections API) : Data Science Team.
 
