@@ -74,7 +74,9 @@ You can click the Preview link to take a look at your changes.
 - Mobile game project (Unity) 2023 ~  (Developing)
 #### Hirbert Robotics (2024 ~ )
 - Audit & Software Developer 
-- low-delay Streaming server for Drone (2024 ~ ) 
+- low-delay Streaming server for Drone (2024 ~ )
+#### Atmos (2025 May.)
+- Advertise & feedback system for game (2025. May.)
 ### ETC
 - [VCAP](https://www.itmedia.co.jp/news/articles/2306/20/news193.html) (VRChat Connections API) : Data Science Team.
 
