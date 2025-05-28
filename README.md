@@ -73,26 +73,34 @@ You can click the Preview link to take a look at your changes.
 #### Hirbert Robotics (2024 ~ )
 - Audit & Software Developer 
 - low-delay Streaming server for Drone (2024 ~ )
-#### Atmos (2025 May.)
-- Advertise & feedback system for game (2025. May.)
+#### Atmos (2025 May ~ June )
+- Advertise & feedback system for game (2025. May,June)
 ### ETC
 - [VCAP](https://www.itmedia.co.jp/news/articles/2306/20/news193.html) (VRChat Connections API) : Data Science Team.
 
 ## Contacts
 presan100@gmail.com 
 
-## ETC
-### Programmers Profile.
-https://career.programmers.co.kr/pr/presan100_7665    
-**IS NOT PUBLISHED YET**
 ## Works 
 <details>
 <summary>더 보기 more...</summary>
 
-|Name|Link|설명|
+### Works by me (Published on github)
+|Name|Link|Description|
 |---|---|---|
-|pick-of-pig|[https://github.com/KNUT-webstudygroup/pick-of-pig]|google placeAPI기반 맛집추천 web App|
 |CanaRinLab_BackEnd|[https://github.com/LuticaCANARD/CanaRinLab_BackEnd]|Elysia.js로 만든 개인용 web server<br> out of maintenance. Private web backend server that made with Elysia.js|
+|LuticaSKID|[https://github.com/LuticaCANARD/LuticaSKID]|ILGPU를 사용한 F\#기반 이미지 편집 도구 |
+|rs-ervice|[https://github.com/LuticaCANARD/rs-ervice]|Rust의 서비스 구조체 관리자 라이브러리|
+|rinAgent|[https://github.com/LuticaCANARD/RinAgent]|개인 디스코드 봇을 함한 개인 서버|
+
+### Works by me (NOT Published on github)
+- VCAPI : Vrchat Survey System (On Server side & DB)
+
+### Contribute
+|Name|Link|Description|
+|--|--|--|
+|svelte/kit|[https://github.com/sveltejs/kit]|`index.html`내부에서 오타 발생시 동작하지 않은 사건 보고및 에러메시지 출력 추가 지원|
+|Gemini-rs|[https://github.com/Shuflduf/gemini-rs]|function-call 및 google_ground 등 기능 추가|
 
 
 </details>
