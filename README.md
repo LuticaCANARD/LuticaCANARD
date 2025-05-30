@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 * Country : South Korea 🇰🇷     
 ## Languages that can contact with me
 * 한국어 / Korean(**Primary**)
-* 日本語 / Japanese    
+* 日本語 / Japanese - JLPT N2    
 * English 
 
 ## Profile
