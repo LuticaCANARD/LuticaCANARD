@@ -88,7 +88,7 @@ presan100@gmail.com
 ### Works by me (Published on github)
 |Name|Link|Description|
 |---|---|---|
-|CanaRinLab_BackEnd|[https://github.com/LuticaCANARD/CanaRinLab_BackEnd]|Elysia.js로 만든 개인용 web server<br> out of maintenance. Private web backend server that made with Elysia.js|
+|CanaRinLab_BackEnd|[https://github.com/LuticaCANARD/CanaRinLab_BackEnd]|Elysia.js로 만든 개인용 web server (rinAgent로 대체중)<br> Private web backend server that made with Elysia.js|
 |LuticaSKID|[https://github.com/LuticaCANARD/LuticaSKID]|ILGPU를 사용한 F\#기반 이미지 편집 도구 |
 |rs-ervice|[https://github.com/LuticaCANARD/rs-ervice]|Rust의 서비스 구조체 관리자 라이브러리|
 |rinAgent|[https://github.com/LuticaCANARD/RinAgent]|개인 디스코드 봇을 함한 개인 서버|
