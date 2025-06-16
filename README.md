@@ -68,11 +68,12 @@ You can click the Preview link to take a look at your changes.
 ### Career
 #### Nano Interactive (2022 ~ paused)
 - Software (Game) Developer
-- ConquerX2 / Crypto Conquer (Web) 2022 ~ 2025
-- Mobile game project (Unity) 2023 ~  (Developing)
+- **ConquerX2 / Crypto Conquer** (Web, Crypto game) 2022 ~ 2025 
+- ~~Mobile game project (Unity) 2023 ~  (Developing)~~
 #### Hirbert Robotics (2024 ~ )
 - Audit & Software Developer 
-- low-delay Streaming server for Drone (2024 ~ )
+- low-delay & Scale-over video Streaming server for Drone (2024 ~ )
+- Drone web console (2025 ~ )
 #### Vivacity (2025 May ~ )
 - **Diimsum** Advertise & feedback system for game (2025. May ~ )
 ### ETC
