@@ -80,7 +80,7 @@ You can click the Preview link to take a look at your changes.
 - [VCAP](https://www.itmedia.co.jp/news/articles/2306/20/news193.html) (VRChat Connections API) : Data Science Team.
 
 ## Contacts
-presan100@gmail.com 
+<a href="mailto:presan100@gmail.com">presan100@gmail.com</a> 
 
 ## Works 
 <details>
@@ -107,5 +107,4 @@ presan100@gmail.com
 </details>
 
 ## Blog
-### Velog
-[https://velog.io/@presan100/posts]
+- [Velog](https://velog.io/@presan100/posts)
