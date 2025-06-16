@@ -74,7 +74,7 @@ You can click the Preview link to take a look at your changes.
 - Audit & Software Developer 
 - low-delay Streaming server for Drone (2024 ~ )
 #### Vivacity (2025 May ~ )
-- Advertise & feedback system for game (2025. May ~ )
+- **Diimsum** Advertise & feedback system for game (2025. May ~ )
 ### ETC
 - [VCAP](https://www.itmedia.co.jp/news/articles/2306/20/news193.html) (VRChat Connections API) : Data Science Team.
 
