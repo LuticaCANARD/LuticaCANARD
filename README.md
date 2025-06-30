@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Projects with Lutica canard 
 ### Career
-#### Nano Interactive (2022 ~ paused)
+#### Nano Interactive (2022 ~ 2025)
 - Software (Game) Developer
 - **ConquerX2 / Crypto Conquer** (Web, Crypto game) 2022 ~ 2025 
 - ~~Mobile game project (Unity) 2023 ~  (Developing)~~
