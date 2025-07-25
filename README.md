@@ -66,9 +66,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Projects with Lutica canard 
 ### Career
-#### Nano Interactive (2022 ~ 2025)
+#### [Nano Interactive (2022 ~ 2025)](https://www.nanoinc.co.kr/)
 - Software (Game) Developer
-- **ConquerX2 / Crypto Conquer** (Web, Crypto game) 2022 ~ 2025 
+- [**ConquerX2 / Crypto Conquer** (Web, Crypto game)](https://kr.conquerx2.com/) 2022 ~ 2025 
 - ~~Mobile game project (Unity) 2023 ~  (Developing)~~
 
 #### PoleZero Robotics (2024 ~ )
@@ -78,6 +78,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Vivacity (2025 May ~ )
 - **Diimsum** Advertise & feedback system for game (2025. May ~ )
+
 ### ETC
 - [VCAP](https://www.itmedia.co.jp/news/articles/2306/20/news193.html) (VRChat Connections API) : Data Science Team.
 
