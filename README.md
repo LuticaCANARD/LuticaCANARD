@@ -14,48 +14,59 @@ You can click the Preview link to take a look at your changes.
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=271515156578697217)
 
 # Who is Lutica CANARD?
-* Country : South Korea 🇰🇷     
+
+* Country : South Korea 🇰🇷
+
 ## Languages that can contact with me
+
 * 한국어 / Korean(**Primary**)
-* 日本語 / Japanese - JLPT N2    
-* English 
+* 日本語 / Japanese - JLPT N2
+* English
 
 ## Profile
-- Main major : Electric engineering On Railway.
-- Double major : Data science
-- I have Interest in ...
+
+* Main major : Electric engineering On Railway.
+* Double major : Data science
+* I have Interest in ...
+
 > Computer Vision, Data Pipeline
+
 ## Used Stacks
 
-## Mainly Used
+
+## 🛠️ My Technical Toolbox
+
+### Languages & Game Development
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23%0A-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=000000)
 ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![.NET/MAUI](https://img.shields.io/badge/.NET-MAUI-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
+![F#](https://img.shields.io/badge/fsharp-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+
+### Web, Backend & Frameworks
+
+![.NET/WPF](https://img.shields.io/badge/.NET-WPF-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
+![.NET/MAUI](https://img.shields.io/badge/.NET-MAUI-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)
+
+### Databases, DevOps & Tools
+
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![REDIS](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![KAFKA](https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-## I can use...
-<!--Div of Formal Language.-->
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-![F#](https://img.shields.io/badge/fsharp-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23%0A-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=000000)
-![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<details>
+<summary>더 보기 more...</summary>
 
 <!--Div of Game dev.-->
-![.NET/WPF](https://img.shields.io/badge/.NET-WPF-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
 ![.NET/MAUI](https://img.shields.io/badge/.NET-MAUI-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
 ![BLENDER](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=Blender&logoColor=white)
@@ -82,51 +93,58 @@ You can click the Preview link to take a look at your changes.
 ![REDIS](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![KAFKA](https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+</details>
 
-## Projects with Lutica canard 
+## Projects with Lutica canard
+
 ### Career
+
 #### [Nano Interactive (2022 ~ 2025)](https://www.nanoinc.co.kr/)
-- Software (Game) Developer
-- [**ConquerX2 / Crypto Conquer** (Web, Crypto game)](https://kr.conquerx2.com/) 2022 ~ 2025 
-- ~~Mobile game project (Unity) 2023 ~  (Developing)~~
+
+* Software (Game) Developer
+* [**ConquerX2 / Crypto Conquer** (Web, Crypto game)](https://kr.conquerx2.com/) 2022 ~ 2025
+* ~~Mobile game project (Unity) 2023 ~  (Developing)~~
 
 #### PoleZero Robotics (2024 ~ )
-- Audit & Software Developer 
-- low-delay & Scale-over video Streaming server for Drone (2024 ~ )
-- Drone web console (2025 ~ )
+
+* Audit & Software Developer 
+* low-delay & Scale-over video Streaming server for Drone (2024 ~ )
+* Drone web console (2025 ~ )
 
 #### Vivacity (2025 May ~ )
+
 - **Diimsum** Advertise & feedback system for game (2025. May ~ )
 
 ### ETC
+
 - [VCAP](https://www.itmedia.co.jp/news/articles/2306/20/news193.html) (VRChat Connections API) : Data Science Team.
 
 ## Contacts
-<a href="mailto:presan100@gmail.com">presan100@gmail.com</a> 
 
-## Works 
-<details>
-<summary>더 보기 more...</summary>
+<a href="mailto:presan100@gmail.com">presan100@gmail.com</a>
 
-### Works by me (Published on github)
-|Name|Link|Description|
-|---|---|---|
-|CanaRinLab_BackEnd|[https://github.com/LuticaCANARD/CanaRinLab_BackEnd]|Elysia.js로 만든 개인용 web server (rinAgent로 대체중)<br> Private web backend server that made with Elysia.js|
-|LuticaSKID|[https://github.com/LuticaCANARD/LuticaSKID]|ILGPU를 사용한 F\#기반 이미지 편집 도구 |
-|rs-ervice|[https://github.com/LuticaCANARD/rs-ervice]|Rust의 서비스 구조체 관리자 라이브러리|
-|rinAgent|[https://github.com/LuticaCANARD/RinAgent]|개인 디스코드 봇을 함한 개인 서버|
+## Works
 
-### Works by me (NOT Published on github)
-- VCAPI : Vrchat Survey System (On Server side & DB)
+## 🌍 Leadership & Activities
 
-### Contribute
-|Name|Link|Description|
+* VCAP (Virtual Community & API Project) | Japan, Remote (Feb 2023 – Present)
+
+> Role: Member & Technical Communicator
+
+* Developed a functional survey system within a metaverse platform, demonstrating the ability to build practical applications in virtual environments.
+* Led technical communication and project coordination between teams in Japan and Hong Kong, ensuring smooth project execution in a multicultural, remote-first environment.
+
+## 🔭 Featured Projects & Contributions
+
+|Project|Description|Tech Stack|
 |--|--|--|
-|svelte/kit|[https://github.com/sveltejs/kit]|`index.html`내부에서 오타 발생시 동작하지 않은 사건 보고및 에러메시지 출력 추가 지원|
-|Gemini-rs|[https://github.com/Shuflduf/gemini-rs]|function-call 및 google_ground 등 기능 추가|
+|🎨 LuticaSKID|(Personal Project) An experimental, high-performance image processing tool built with F# and ILGPU. Developed to explore GPGPU programming and learn the complexities of parallel computing.|F#, ILGPU, HLSL, Unity|
+|⚙️ rs-ervice|(Personal Project) A library for efficiently managing Service Structs in Rust. It helps reduce repetitive boilerplate code and facilitates the implementation of service-oriented architectures.|Rust|
+|🌐 CanaRinLab_BackEnd|(Personal Project) A personal, integrated backend server built with Elysia.js (Bun). It centrally handles API endpoints, authentication, and database management for my personal projects.|TypeScript, Bun, Elysia.js|
+|💬 rinAgent|(Personal Project) An agent including a Discord bot for personal server operation and automation. Performs functions like server status monitoring and automated deployment notifications.|Rust, Discord API|
+|SvelteKit (Contribution)|Added error message support for typos in the index.html file and reported related bugs in the svelte/kit repository.|TypeScript|
+|Gemini-rs (Contribution)|Extended the gemini-rs library by adding function-call and google_ground features, enhancing the model's usability.|Rust|
 
+## Blog Posts
 
-</details>
-
-## Blog
 - [Velog](https://velog.io/@presan100/posts)
