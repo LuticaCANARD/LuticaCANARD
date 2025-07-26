@@ -99,36 +99,35 @@ You can click the Preview link to take a look at your changes.
 
 ### Career
 
-#### [Nano Interactive (2022 ~ 2025)](https://www.nanoinc.co.kr/)
+#### Vivacity (2025 May ~ )
 
-* Software (Game) Developer
-* [**ConquerX2 / Crypto Conquer** (Web, Crypto game)](https://kr.conquerx2.com/) 2022 ~ 2025
-* ~~Mobile game project (Unity) 2023 ~  (Developing)~~
+> Role: Software Developer (AI & Full-stack Web)
+
+* **Diimsum** Advertise & feedback system for game with LLM AI (2025. May ~ )
 
 #### PoleZero Robotics (2024 ~ )
 
-* Audit & Software Developer 
+> Role: Audit & Software Developer (Web, Stream Pipeline, AI)
+
 * low-delay & Scale-over video Streaming server for Drone (2024 ~ )
 * Drone web console (2025 ~ )
 
-#### Vivacity (2025 May ~ )
+#### [Nano Interactive (2022 ~ 2025)](https://www.nanoinc.co.kr/)
 
-- **Diimsum** Advertise & feedback system for game (2025. May ~ )
+> Role: Software Developer (Game & Full-stack Web)
 
-### ETC
-
-- [VCAP](https://www.itmedia.co.jp/news/articles/2306/20/news193.html) (VRChat Connections API) : Data Science Team.
+* [**ConquerX2 / Crypto Conquer** (Web, Crypto game)](https://kr.conquerx2.com/) 2022 ~ 2025
+* **RTS Mobile Game Development**: Engineered and optimized 3D graphics and developed a high-performance real-time combat system.
 
 ## Contacts
 
 <a href="mailto:presan100@gmail.com">presan100@gmail.com</a>
 
-## Works
-
 ## 🌍 Leadership & Activities
 
-* VCAP (Virtual Community & API Project) | Japan, Remote (Feb 2023 – Present)
+### [VCAP](https://www.itmedia.co.jp/news/articles/2306/20/news193.html) | Japan, Remote (Feb 2023 – Present)
 
+> Division of data.
 > Role: Member & Technical Communicator
 
 * Developed a functional survey system within a metaverse platform, demonstrating the ability to build practical applications in virtual environments.
