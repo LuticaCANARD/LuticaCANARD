@@ -137,7 +137,7 @@ You can click the Preview link to take a look at your changes.
 
 |Project|Description|Tech Stack|
 |--|--|--|
-|🎨 LuticaSKID|(Personal Project) An experimental, high-performance image processing tool built with F# and ILGPU. Developed to explore GPGPU programming and learn the complexities of parallel computing.|F#, ILGPU, HLSL, Unity|
+|🎨 LuticaSKID -> TextureCocktail |(Personal Project) An experimental, high-performance image processing tool built with F# and ILGPU. Developed to explore GPGPU programming and learn the complexities of parallel computing.|F#, ILGPU, HLSL, Unity|
 |⚙️ rs-ervice|(Personal Project) A library for efficiently managing Service Structs in Rust. It helps reduce repetitive boilerplate code and facilitates the implementation of service-oriented architectures.|Rust|
 |🌐 CanaRinLab_BackEnd|(Personal Project) A personal, integrated backend server built with Elysia.js (Bun). It centrally handles API endpoints, authentication, and database management for my personal projects.|TypeScript, Bun, Elysia.js|
 |💬 rinAgent|(Personal Project) An agent including a Discord bot for personal server operation and automation. Performs functions like server status monitoring and automated deployment notifications.|Rust, Discord API|
