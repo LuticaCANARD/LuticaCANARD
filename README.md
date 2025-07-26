@@ -148,3 +148,5 @@ You can click the Preview link to take a look at your changes.
 ## Blog Posts
 
 - [Velog](https://velog.io/@presan100/posts)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
