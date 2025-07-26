@@ -149,4 +149,9 @@ You can click the Preview link to take a look at your changes.
 
 - [Velog](https://velog.io/@presan100/posts)
 <!-- BLOG-POST-LIST:START -->
+- [[ Rust ] Cross-compile의 개념과 방법](https://velog.io/@presan100/Rust-Cross-compile%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EB%B0%A9%EB%B2%95)
+- [[ AWS/Cloud ] AWS 지역 통일과 가용성 증가를 통한 서버 성능 및 비용 개선](https://velog.io/@presan100/AWSCloud-AWS-%EC%A7%80%EC%97%AD-%ED%86%B5%EC%9D%BC%EA%B3%BC-%EA%B0%80%EC%9A%A9%EC%84%B1-%EC%A6%9D%EA%B0%80%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%84%9C%EB%B2%84-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0)
+- [[ Rust/Linux ] SeaORMCli - error: failed to open: Permission denied &lpar;os error 13&rpar;](https://velog.io/@presan100/RustLinux-SeaORMCli-error-failed-to-open-Permission-denied-os-error-13)
+- [[ PostgreSQL ] 초기 설치 및 외부 연결 허용](https://velog.io/@presan100/PostgreSQL-%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%99%B8%EB%B6%80-%EC%97%B0%EA%B2%B0-%ED%97%88%EC%9A%A9)
+- [N천만 request 공격과 2일간의 해커톤?](https://velog.io/@presan100/N%EC%B2%9C%EB%A7%8C-request-%EA%B3%B5%EA%B2%A9%EA%B3%BC-2%EC%9D%BC%EA%B0%84%EC%9D%98-%ED%95%B4%EC%BB%A4%ED%86%A4)
 <!-- BLOG-POST-LIST:END -->
