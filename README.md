@@ -144,6 +144,14 @@ You can click the Preview link to take a look at your changes.
 |SvelteKit (Contribution)|Added error message support for typos in the index.html file and reported related bugs in the svelte/kit repository.|TypeScript|
 |Gemini-rs (Contribution)|Extended the gemini-rs library by adding function-call and google_ground features, enhancing the model's usability.|Rust|
 
+## 🎖 License / Qualification
+
+- 정보처리기사 Engineer Information Processing
+> issued 2025.09 / HRD Korea
+
+- JLPT N2 (Japanese Language Proficiency Test)
+> issued 2021.02 / Japan foundation 
+
 ## Blog Posts
 
 - [Velog](https://velog.io/@presan100/posts)
