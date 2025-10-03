@@ -125,6 +125,11 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌍 Leadership & Activities
 
+### [Gyeonggi-do Youth Participation Organization](https://youth.gg.go.kr/gg/intro/youth-participation-organization001.do)  | South Korea, Gyeonggi province (sep 2025 – sep 2026)
+
+> Committee
+- Proposing ideas to youth policy Gyeonggi province.
+
 ### [VCAP](https://www.itmedia.co.jp/news/articles/2306/20/news193.html) | Japan, Remote (Feb 2023 – Present)
 
 > Division of data.
@@ -150,7 +155,8 @@ You can click the Preview link to take a look at your changes.
 > issued 2025.09 / HRD Korea
 
 - JLPT N2 (Japanese Language Proficiency Test)
-> issued 2021.02 / Japan foundation 
+> issued 2021.02 / Japan foundation
+
 
 ## Blog Posts
 
