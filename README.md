@@ -124,7 +124,17 @@ You can click the Preview link to take a look at your changes.
 <a href="mailto:presan100@gmail.com">presan100@gmail.com</a>
 
 ## 🌍 Leadership & Activities
+<!--
+- 본 섹션은 대외활동을 작성하는 곳입니다.
+- **대외적 공개및 증서등으로 증명 가능한 업무**만 공지하십시오.
+- 양식은 하기를 따릅니다.
+### [<활동 조직의 영문명 (가능하다면 공식 영문명칭)>](<링크>) | <국적>,<주 활동지역>
+> <직위, 부서등의 개인에 속하는 정보의 영어 번역>
+> Role:등으로 정해도 좋음. 
 
+* <활동의 milestone, 혹은, 활동의 표현에 대한 **영어 구문** >
+
+-->
 ### [Gyeonggi-do Youth Participation Organization](https://youth.gg.go.kr/gg/intro/youth-participation-organization001.do)  | South Korea, Gyeonggi province (sep 2025 – sep 2026)
 
 > Committee
@@ -150,6 +160,16 @@ You can click the Preview link to take a look at your changes.
 |Gemini-rs (Contribution)|Extended the gemini-rs library by adding function-call and google_ground features, enhancing the model's usability.|Rust|
 
 ## 🎖 License / Qualification
+
+<!-- 
+
+이 섹션은 자격 및 어학등을 작성합니다.
+이 섹션에 기재될 수 있는 라이센스등은 내부에서 충분히 공신력 있다고 판단하여야 합니다.
+
+- <원어 구문> <공식 영어명칭>
+> issued <일자> / <발급기관의 영어명칭>
+
+-->
 
 - 정보처리기사 Engineer Information Processing
 > issued 2025.09 / HRD Korea
