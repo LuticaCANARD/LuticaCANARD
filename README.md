@@ -138,6 +138,7 @@ You can click the Preview link to take a look at your changes.
 ### [Gyeonggi-do Youth Participation Organization](https://youth.gg.go.kr/gg/intro/youth-participation-organization001.do)  | South Korea, Gyeonggi province (sep 2025 – sep 2026)
 
 > Committee
+- Role based ENFORCEMENT DECREE OF THE FRAMEWORK ACT ON YOUTH Aricle 20.
 - Proposing ideas to youth policy Gyeonggi province.
 
 ### [VCAP](https://www.itmedia.co.jp/news/articles/2306/20/news193.html) | Japan, Remote (Feb 2023 – Present)
