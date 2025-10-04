@@ -141,7 +141,7 @@ You can click the Preview link to take a look at your changes.
 - Role based ENFORCEMENT DECREE OF THE FRAMEWORK ACT ON YOUTH Aricle 20.
 - Proposing ideas to youth policy Gyeonggi province.
 
-### [VCAP](https://www.itmedia.co.jp/news/articles/2306/20/news193.html) | Japan, Remote (Feb 2023 – Present)
+### [VRC Connections API Project](https://www.itmedia.co.jp/news/articles/2306/20/news193.html) | Japan, Remote (Feb 2023 – Present)
 
 > Division of data.
 > Role: Member & Technical Communicator
