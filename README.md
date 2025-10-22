@@ -183,9 +183,9 @@ You can click the Preview link to take a look at your changes.
 
 - [Velog](https://velog.io/@presan100/posts)
 <!-- BLOG-POST-LIST:START -->
+- [[ Life ] Social Hacking에 대하여](https://velog.io/@presan100/Life-Social-Hacking%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
 - [[ Javascript ] Pipe 연산자](https://velog.io/@presan100/Javascript-Pipe-%EC%97%B0%EC%82%B0%EC%9E%90)
 - [[Case Study] U# 제약과 극복 &lpar;String Loader&rpar;](https://velog.io/@presan100/Case-Study-U-%EC%A0%9C%EC%95%BD%EA%B3%BC-%EA%B7%B9%EB%B3%B5-String-Loader)
 - [[ Python ] multi-threading, multi-processing](https://velog.io/@presan100/Python-multi-threading-multi-processing)
 - [[ TypeScript ] Type Inference](https://velog.io/@presan100/TypeScript-Type-Inference)
-- [[ Rust ] Cross-compile의 개념과 방법](https://velog.io/@presan100/Rust-Cross-compile%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EB%B0%A9%EB%B2%95)
 <!-- BLOG-POST-LIST:END -->
