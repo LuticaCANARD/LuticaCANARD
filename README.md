@@ -141,13 +141,14 @@ You can click the Preview link to take a look at your changes.
 <!-- Role based ENFORCEMENT DECREE OF THE FRAMEWORK ACT ON YOUTH Aricle 20.-->
 - Proposing ideas to youth policy Gyeonggi province.
 
-### [VRC Connections API Project](https://www.itmedia.co.jp/news/articles/2306/20/news193.html) | Japan, Remote (Feb 2023 – Present)
+### [VRC Connections API Project](https://www.vcapi.net) | Japan, Remote (Feb 2023 – Present)
 
 > Division of data.
 > Role: Member & Technical Communicator
 
 * Developed a functional survey system within a metaverse platform, demonstrating the ability to build practical applications in virtual environments.
 * Led technical communication and project coordination between teams in Japan and Hong Kong, ensuring smooth project execution in a multicultural, remote-first environment.
+* [View more](https://www.itmedia.co.jp/news/articles/2306/20/news193.html)
 
 ## 🔭 Featured Projects & Contributions
 
