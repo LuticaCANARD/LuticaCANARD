@@ -184,9 +184,9 @@ You can click the Preview link to take a look at your changes.
 
 - [Velog](https://velog.io/@presan100/posts)
 <!-- BLOG-POST-LIST:START -->
+- [[ Window ] Chocolatey / Winget](https://velog.io/@presan100/Window-Chocolatey-Winget)
+- [[ Architecture ] .NET Polyglot: 객체지향 C#과 함수형 F#의 공존 전략](https://velog.io/@presan100/Architecture-.NET-Polyglot-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-C%EA%B3%BC-%ED%95%A8%EC%88%98%ED%98%95-F%EC%9D%98-%EA%B3%B5%EC%A1%B4-%EC%A0%84%EB%9E%B5)
+- [[ LLM App ] SQL MCP with AI](https://velog.io/@presan100/LLM-App-SQL-MCP-with-AI)
 - [[ .Net ] 할당과 제거 &lpar;unsafe, IDisposable, using,GC ...&rpar;](https://velog.io/@presan100/.Net-%ED%95%A0%EB%8B%B9%EA%B3%BC-%EC%A0%9C%EA%B1%B0-unsafe-IDisposable-usingGC-)
 - [[ Life ] Social Hacking에 대하여](https://velog.io/@presan100/Life-Social-Hacking%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
-- [[ Javascript ] Pipe 연산자](https://velog.io/@presan100/Javascript-Pipe-%EC%97%B0%EC%82%B0%EC%9E%90)
-- [[Case Study] U# 제약과 극복 &lpar;String Loader&rpar;](https://velog.io/@presan100/Case-Study-U-%EC%A0%9C%EC%95%BD%EA%B3%BC-%EA%B7%B9%EB%B3%B5-String-Loader)
-- [[ Python ] multi-threading, multi-processing](https://velog.io/@presan100/Python-multi-threading-multi-processing)
 <!-- BLOG-POST-LIST:END -->
