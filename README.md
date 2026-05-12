@@ -105,6 +105,8 @@ You can click the Preview link to take a look at your changes.
 
 #### [Hilbert Robotics Robotics (2024 ~ )](https://www.hilbert-robotics.com/)
 
+<img width="5018" height="1042" alt="logo_black copy" src="https://github.com/user-attachments/assets/b59dcab1-5c17-4532-8038-a308bf0aa5be" />
+
 > Role: Audit & Software Developer (Web, Stream Pipeline, AI)
 
 * low-delay & Scale-over video Streaming server for Drone (2024 ~ )
