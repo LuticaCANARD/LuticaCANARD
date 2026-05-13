@@ -104,9 +104,6 @@ You can click the Preview link to take a look at your changes.
 * **Diimsum** Advertise & feedback system for game with LLM AI (2025. May ~ )
 
 #### [Hilbert Robotics Robotics (2024 ~ )](https://www.hilbert-robotics.com/)
-
-<img width="2009" height="450" alt="logo_black copy" src="https://github.com/user-attachments/assets/b3ddc335-1f08-4082-9b88-e9367ef935ec" />
-
 > Role: Audit & Software Developer (Web, Stream Pipeline, AI)
 
 * low-delay & Scale-over video Streaming server for Drone (2024 ~ )
