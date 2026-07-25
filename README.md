@@ -99,11 +99,11 @@ You can click the Preview link to take a look at your changes.
 
 #### [Vivacity (2025 May ~ )](https://www.diimsum.com/)
 
-> Role: Software Developer (AI & Full-stack Web)
+> Role: Tech Lead (AI & Full-stack Web)
 
 * **Diimsum** Advertise & feedback system for game with LLM AI (2025. May ~ )
 
-#### [Hilbert Robotics Robotics (2024 ~ )](https://www.hilbert-robotics.com/)
+#### [Hilbert Robotics (2024 ~ )](https://www.hilbert-robotics.com/)
 > Role: Audit & Software Developer (Web, Stream Pipeline, AI)
 
 * low-delay & Scale-over video Streaming server for Drone (2024 ~ )
