@@ -103,6 +103,9 @@ You can click the Preview link to take a look at your changes.
 
 * **Diimsum** Advertise & feedback system for game with LLM AI (2025. May ~ )
 
+#### [Naru Mate (2026 ~ )](http://naru-mate.com/)
+> Role : Technical advisor
+
 #### [Hilbert Robotics (2024 ~ )](https://www.hilbert-robotics.com/)
 > Role: Audit & Software Developer (Web, Stream Pipeline, AI)
 
