@@ -107,9 +107,6 @@ You can click the Preview link to take a look at your changes.
 #### [Hilbert Robotics (2024 ~ )](https://www.hilbert-robotics.com/)
 > Role: Audit & Software Developer (Web, Stream Pipeline, AI)
 
-* low-delay & Scale-over video Streaming server for Drone (2024 ~ )
-* Drone web console (2025 ~ )
-
 #### [Naru Mate (2026 ~ )](http://naru-mate.com/)
 > Role : Technical advisor
 
