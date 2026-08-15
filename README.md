@@ -97,20 +97,27 @@ You can click the Preview link to take a look at your changes.
 
 ### Career
 
-#### [Vivacity (2025 May ~ )](https://www.diimsum.com/)
-
-> Role: Tech Lead (AI & Full-stack Web)
-
-* **Diimsum** Advertise & feedback system for game with LLM AI (2025. May ~ )
-
-#### [Naru Mate (2026 ~ )](http://naru-mate.com/)
-> Role : Technical advisor
+<!--
+기재 순서 : 
+            1) 현행. 대외 직함 
+            2) 지분 여부
+            3) 전임. 대외 직함
+-->
 
 #### [Hilbert Robotics (2024 ~ )](https://www.hilbert-robotics.com/)
 > Role: Audit & Software Developer (Web, Stream Pipeline, AI)
 
 * low-delay & Scale-over video Streaming server for Drone (2024 ~ )
 * Drone web console (2025 ~ )
+
+#### [Naru Mate (2026 ~ )](http://naru-mate.com/)
+> Role : Technical advisor
+
+#### [Vivacity (2025 May ~ )](https://www.diimsum.com/)
+
+> Role: Infra/DevOps Eng. (ex.Tech Lead (AI & Full-stack Web))
+
+* **Diimsum** Advertise & feedback system for game with LLM AI (2025. May ~ )
 
 #### [Nano Interactive (2022 ~ 2025)](https://www.nanoinc.co.kr/)
 
