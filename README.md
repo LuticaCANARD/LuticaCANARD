@@ -85,10 +85,10 @@ You can click the Preview link to take a look at your changes.
 -->
 
 #### [Hilbert Robotics (2024 ~ )](https://www.hilbert-robotics.com/)
-- **Audit & Software Developer** (Web, Stream Pipeline, AI)
+**Audit & Software Developer** (Web, Stream Pipeline, AI)
 
 #### [Naru Mate (2026 ~ )](http://naru-mate.com/)
-- **Technical advisor**
+**Technical advisor**
 
 #### [Vivacity (2025 May ~ )](https://www.diimsum.com/)
 
@@ -99,7 +99,7 @@ You can click the Preview link to take a look at your changes.
 
 #### [Nano Interactive (2022 ~ 2025)](https://www.nanoinc.co.kr/)
 
-- **Software Developer** (Game & Full-stack Web)
+**Software Developer** (Game & Full-stack Web)
 
 * [**ConquerX2 / Crypto Conquer** (Web, Crypto game)](https://kr.conquerx2.com/) 2022 ~ 2025
 * **RTS Mobile Game Development**: Engineered and optimized 3D graphics and developed a high-performance real-time combat system.
