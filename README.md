@@ -88,11 +88,12 @@ You can click the Preview link to take a look at your changes.
 **Audit & Software Developer** (Web, Stream Pipeline, AI)
 
 #### [Naru Mate (2026 ~ )](http://naru-mate.com/)
-**Technical advisor (Infra specific - AWS)**
+**Technical advisor **
+> web tech. (Infra specific - AWS)
 
 #### [Vivacity (2025 May ~ )](https://www.diimsum.com/)
 
-**Platform / Infrastructure Engineer(AWS,Azure)**
+**Platform / Infrastructure Engineer**(AWS,Azure)
 > Previously led AI & Full-stack engineering as Tech Lead.
 
 * **Diimsum** Advertise & feedback system for game with LLM AI (2025. May ~ )
