@@ -88,7 +88,7 @@ You can click the Preview link to take a look at your changes.
 **Audit & Software Developer** (Web, Stream Pipeline, AI)
 
 #### [Naru Mate (2026 ~ )](http://naru-mate.com/)
-**Technical advisor **
+**Technical advisor**
 > web tech. (Infra specific - AWS)
 
 #### [Vivacity (2025 May ~ )](https://www.diimsum.com/)
