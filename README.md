@@ -170,7 +170,7 @@ You can click the Preview link to take a look at your changes.
 
 - [Velog](https://velog.io/@presan100/posts)
 <!-- BLOG-POST-LIST:START -->
-- [근황](https://velog.io/@presan100/%EA%B7%BC%ED%99%A9)
+- [[ SW Arch ] - Monolithic , Modular Monolith, MSA](https://velog.io/@presan100/SW-Arch-Monolithic-Modular-Monolith-MSA)
 - [[ Window ] Chocolatey / Winget](https://velog.io/@presan100/Window-Chocolatey-Winget)
 - [[ Architecture ] .NET Polyglot: 객체지향 C#과 함수형 F#의 공존 전략](https://velog.io/@presan100/Architecture-.NET-Polyglot-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-C%EA%B3%BC-%ED%95%A8%EC%88%98%ED%98%95-F%EC%9D%98-%EA%B3%B5%EC%A1%B4-%EC%A0%84%EB%9E%B5)
 - [[ LLM App ] SQL with AI](https://velog.io/@presan100/LLM-App-SQL-MCP-with-AI)
