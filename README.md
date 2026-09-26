@@ -85,7 +85,7 @@ You can click the Preview link to take a look at your changes.
 -->
 
 #### [Hilbert Robotics (2024 ~ )](https://www.hilbert-robotics.com/)
-**Audit & Software Developer** (Web, Stream Pipeline, AI)
+**Independent Director & Software Developer** (Web, Stream Pipeline, AI)
 
 #### [Naru Mate (2026 ~ )](http://naru-mate.com/)
 **Technical advisor**
