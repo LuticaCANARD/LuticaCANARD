@@ -86,6 +86,7 @@ You can click the Preview link to take a look at your changes.
 
 #### [Hilbert Robotics (2024 ~ )](https://www.hilbert-robotics.com/)
 **Independent Director & Software Developer** (Web, Stream Pipeline, AI)
+- making real-time streaming communication protocol system between robot nodes, and web pages. 
 
 #### [Naru Mate (2026 ~ )](http://naru-mate.com/)
 **Technical advisor**
