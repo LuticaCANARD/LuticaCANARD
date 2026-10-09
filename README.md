@@ -105,6 +105,7 @@ You can click the Preview link to take a look at your changes.
 **Software Developer** (Game & Full-stack Web)
 
 * [**ConquerX2 / Crypto Conquer** (Web, Crypto game)](https://kr.conquerx2.com/) 2022 ~ 2025
+> Development and Maintanence
 * **RTS Mobile Game Development**: Engineered and optimized 3D graphics and developed a high-performance real-time combat system.
 
 ## Contacts
