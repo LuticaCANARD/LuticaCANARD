@@ -64,13 +64,12 @@ You can click the Preview link to take a look at your changes.
 <!--Div of DevOps.-->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GITHUBCICD](https://img.shields.io/badge/Github_Action-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white)
-![AWSEC2](https://img.shields.io/badge/amazon_ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=000000)
-![cloudflarepages](https://img.shields.io/badge/cloudflare_pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)
+![AWSE](https://img.shields.io/badge/amazon_ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=000000)
+![cloudflare](https://img.shields.io/badge/cloudflare_pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)
 <!--Div DBA.-->
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![REDIS](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![KAFKA](https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 </details>
 
 ## Projects with Lutica canard
