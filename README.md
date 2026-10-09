@@ -97,7 +97,8 @@ You can click the Preview link to take a look at your changes.
 **Platform / Infrastructure Engineer**(AWS,Azure)
 > Previously led AI & Full-stack engineering as Tech Lead.
 
-* **Diimsum** Advertise & feedback system for game with LLM AI (2025. May ~ )
+* **Diimsum** Feedback system for game with LLM AI (2025. May ~ )
+- server-side task in advertise system
 
 #### [Nano Interactive (2022 ~ 2025)](https://www.nanoinc.co.kr/)
 
